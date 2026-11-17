@@ -1,0 +1,6 @@
+{
+  "name": "Zayvor Sports Industries — BJJ & Jiu Jitsu Apparel Manufacturer",
+  "description": "Custom BJJ & Jiu Jitsu Gis, compression rash guards, No-Gi fight shorts, and spats manufactured by Zayvor Sports Industries for global combat sports brands and academies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
